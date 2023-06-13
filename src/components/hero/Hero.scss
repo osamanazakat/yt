@@ -6,7 +6,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   padding-block: 7rem 5rem;
-  z-index: -3;
 
   &__text {
     width: fit-content;
@@ -50,7 +49,6 @@
     padding-top: 2rem;
     width: 80%;
     margin-inline: auto;
-    z-index: 1;
     background-image: url("../../assets/bg-hero-phones.svg");
     background-position: center;
     background-repeat: no-repeat;

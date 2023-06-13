@@ -26,8 +26,7 @@ const Hero = () => {
         </div>
 
         <div className="hero__img-container">
-          <img src={HeroPhones} alt="" className="hero__phone-img" />
-          {/* <img src={PhonesBg} alt="" className="hero__phonebg-img" /> */}
+          <img src={HeroPhones} alt="" />
         </div>
       </Wrapper>
     </section>

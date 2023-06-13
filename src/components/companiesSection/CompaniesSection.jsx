@@ -23,6 +23,5 @@ const CompaniesSection = () => {
     </section>
   );
 };
-Section;
 
 export default CompaniesSection;

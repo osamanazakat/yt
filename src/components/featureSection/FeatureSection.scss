@@ -5,17 +5,7 @@
   padding-block: 4rem;
 
   h2 {
-    color: #111827;
-    font-size: 3rem;
-    line-height: 1.1;
-    letter-spacing: -0.025rem;
-    font-family: "IBM Plex Sans", sans-serif;
-    font-weight: 700;
     margin-bottom: 1rem;
-
-    @include respond(tab-port) {
-      font-size: 2.5rem;
-    }
   }
 
   p {

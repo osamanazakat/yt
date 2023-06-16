@@ -6,6 +6,7 @@ import HabitsSection from "./components/habitsSection/HabitsSection";
 import BuildSection from "./components/buildSection/BuildSection";
 import PriceSection from "./components/priceSection/PriceSection";
 import Testimonials from "./components/testimonials/Testimonials";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <BuildSection />
       <PriceSection />
       <Testimonials />
+      <Footer />
     </>
   );
 }

@@ -4,6 +4,10 @@
   padding-block: 4rem 25rem;
   position: relative;
 
+  @include respond(phone) {
+    padding-block: 3rem 12rem;
+  }
+
   &__container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);

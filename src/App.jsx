@@ -5,6 +5,7 @@ import FeatureSection from "./components/featureSection/FeatureSection";
 import HabitsSection from "./components/habitsSection/HabitsSection";
 import BuildSection from "./components/buildSection/BuildSection";
 import PriceSection from "./components/priceSection/PriceSection";
+import Testimonials from "./components/testimonials/Testimonials";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <HabitsSection />
       <BuildSection />
       <PriceSection />
+      <Testimonials />
     </>
   );
 }
